@@ -26,7 +26,7 @@ This is a Java application for managing a video rental system. It allows users t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/video-rental-system.git
+   git clone https://github.com/ImRealRage/VideoRecord.git
 
 
 cd video-rental-system
